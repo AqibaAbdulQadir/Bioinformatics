@@ -58,3 +58,6 @@ The program will then generate a plot like so:
 ## Author
 
   * **Aqiba Abdul Qadir** - Just felt like having fun :)
+
+## Credits
+  * **Dr Urooj Ainuddin** - The OG
