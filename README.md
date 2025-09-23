@@ -4,8 +4,8 @@ This project contains Python code to visualize two classic dynamic programming a
 
 ## Features
 
-  * **Needleman-Wunsch Algorithm:** Implements a global sequence alignment algorithm. The visualization shows the scoring matrix and the optimal path(s) that align the full sequences.
-  * **Smith-Waterman Algorithm:** Implements a local sequence alignment algorithm. The visualization highlights the highest-scoring local alignment(s) within the sequences.
+  * **Needleman Wunsch Algorithm:** Implements a global sequence alignment algorithm. The visualization shows the scoring matrix and the optimal path(s) that align the full sequences.
+  * **Smith Waterman Algorithm:** Implements a local sequence alignment algorithm. The visualization highlights the highest-scoring local alignment(s) within the sequences.
   * **Dynamic Visualization:** Generates a heatmap of the scoring matrix and overlays it with arrows indicating the optimal path(s) for the alignment.
   * **Interactive Command Line Interface:** Allows the user to input two DNA sequences and choose the desired algorithm directly from the terminal.
   * **Modular Code:** The logic for the dynamic programming functions is separated from the visualization code, making it easy to understand and extend. You can also use this code to understand how it really works and tweak it as you like.
